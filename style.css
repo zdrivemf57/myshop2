@@ -6,3 +6,8 @@ body {
 .staff {
   color: green;
 }
+
+.staff-searched {
+  background-color: red;
+  color: white;
+}
